@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source software
 - 🌱 I’m currently learning Django REST Framework
 - 💞️ I’m looking to collaborate on t3 stack
-- 📫 How to reach me apollg3@gmail.com
+- 📫 You can reach me through email: apollg3@gmail.com
 
 <!---
 apollge/apollge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
